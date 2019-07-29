@@ -1,5 +1,5 @@
 ## Mantica blog
-This repo contains a simple blogging system. It serves as a playground for a few technologies like CosmosDB or Angular. It is work in progress.
+This repo contains a simple blogging system. It serves as a playground for a few technologies like CosmosDB and Angular. This is work in progress.
 
 ## Technical details
 * Web API (REST) built with .NET Core 2.x
